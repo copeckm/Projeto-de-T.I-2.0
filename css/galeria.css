@@ -6,3 +6,15 @@
     margin-left: 15px;
     margin-right: 15px;
 }
+h5{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    text-align: justify;
+    line-height: 30px;
+    color:#6c7a89;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+}
